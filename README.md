@@ -1,6 +1,6 @@
-# Webpack 5 Boilerplate
+# Webpack 5 & Bootstrap 4 Boilerplate
 
-Babel and Sass with dev server and an optimized production build.
+Bootstrap 4 + SCSS + Babel + jQuery + Fontawesome with dev server and an optimized production build.
 
 ## Installation
 
