@@ -2,6 +2,7 @@ module.exports = {
   "root": true,
   "ignorePatterns": ["dist", "node_modules"],
   "rules": {
+    "no-param-reassign": 0,
     "max-len": [
       "error",
       {
