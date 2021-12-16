@@ -1,4 +1,5 @@
 module.exports = {
+  "root": true,
   "ignorePatterns": ["dist", "node_modules"],
   "rules": {
     "max-len": [
@@ -35,7 +36,7 @@ module.exports = {
     "browser": true,
     "es6": true
   },
-  "extends": ["eslint:recommended", "airbnb-base", "prettier"],
+  "extends": ["eslint:recommended", "airbnb-base"],
   "globals": {
     "Atomics": "readonly",
     "SharedArrayBuffer": "readonly"
@@ -44,7 +45,6 @@ module.exports = {
     "ecmaVersion": 11,
     "sourceType": "module"
   },
-  "plugins": ["prettier"],
   "settings": {
     "import/resolver": {
       "webpack": {
