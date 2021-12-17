@@ -1,6 +1,6 @@
 {
   "name": "webpack5-bootstrap4-boilerplate",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Bootstrap 4 + SCSS + Babel + Linting + jQuery + Fontawsome with Webpack",
   "main": "index.js",
   "scripts": {
